@@ -1,0 +1,14 @@
+# Ignore CSV files
+*.csv
+
+# Ignore XLSX files
+*.xlsx
+
+# Ignore Parquet files
+*.parquet
+
+# Ignore .env file
+.env
+
+# Ignore HTML files
+*.html
